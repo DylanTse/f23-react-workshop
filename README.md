@@ -7,9 +7,9 @@ npm start
 ```
 
 ## Useful links
-https://dev.to/collegewap/how-to-delete-an-item-from-the-state-array-in-react-kl
-https://legacy.reactjs.org/docs/hooks-state.html
-https://www.makeuseof.com/react-to-do-list-app-build-simple/
+(*) https://dev.to/collegewap/how-to-delete-an-item-from-the-state-array-in-react-kl
+(*) https://legacy.reactjs.org/docs/hooks-state.html
+(*) https://www.makeuseof.com/react-to-do-list-app-build-simple/
 
 ## Having Git Commit Issues for the first time?
 (1) Git init in your folder
